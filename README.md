@@ -1,2 +1,2 @@
-# estructurasDeControlCalificacionesOK
+# estructurasDeControlCalificaciones
 Created with CodeSandbox
