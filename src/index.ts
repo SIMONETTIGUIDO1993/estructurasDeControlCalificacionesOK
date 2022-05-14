@@ -28,3 +28,5 @@ while (nombreAlumno !== "") {
   }
   nombreAlumno = prompt("Ingrese el nombre del alumno");
 }
+
+//comentario de prueba para github
